@@ -1,0 +1,23 @@
+{
+ "name": "@reneos/app",
+ "version": "0.0.5",
+ "description": "The module helps manage elements of your application.",
+ "main": "index.js",
+ "type": "module",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "author": {
+    "email": "dev@reneos.com",
+    "name": "Viktor Abdulov"
+ },
+ "license": "MIT"
+},
+"repository": {
+   "type": "git",
+   "url": "https://github.com/McRain/reneos.app.git"
+ },
+  "bugs": {
+    "url": "https://github.com/McRain/reneos.app/issues"
+  },
+  "homepage": "https://github.com/McRain/reneos.app#readme"
